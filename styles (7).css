@@ -1,0 +1,11 @@
+.row {
+  margin-bottom: 40px;
+}
+a {
+    color: black;
+    text-decoration: underline;
+}
+.navbar {
+    text-align: right;
+    align-items: end
+}
